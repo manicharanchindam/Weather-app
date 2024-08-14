@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Bodoni+Moda+SC:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&family=Foldit:wght@100..900&family=Permanent+Marker&family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&family=Rubik+Glitch+Pop&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Acme', sans-serif;
+}
+.app{
+  min-height: 100vh;
+  display: grid;
+  background-image: url("C:\Users\user\Desktop\weather\Weather-app\NATURE1.png");
+  background-repeat:no-repeat ;
+  background-size: cover;
+  background-color: aqua;
+  background-position: center;
+}
