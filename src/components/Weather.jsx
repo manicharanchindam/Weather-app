@@ -67,7 +67,7 @@ const Weather = () => {
     }
     useEffect(() => {
         search("Warangal");
-    }, [])
+    }, [alert("hii")])
   return (
     <div className='weather'> 
     <div className="search-bar">
